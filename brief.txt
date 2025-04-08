@@ -1,0 +1,6 @@
+Nom du projet : Animalia
+Thème : Un site permettant de lister et gérer différentes espèces d’animaux.
+Fonctionnalités principales :
+- Consultation d’une liste d’animaux avec description et images
+- Filtrage des animaux par type (mammifères, oiseaux, reptiles, etc.)
+- Gestion des animaux dans le backoffice (ajout, modification, suppression)
